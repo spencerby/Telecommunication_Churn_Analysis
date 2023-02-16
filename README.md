@@ -1,2 +1,4 @@
 # Telecommunication_Churn_Analysis
 A churn analysis focused on the telecommunication industry
+
+The telecommunication industry is the cornerstone for today's fast-paced lifestyle, it has boosted the efficiency of information transfer, making it become essential in modern people's life. Whether in a household or business, telecommunication services are a priority, especially in 2020. The telecommunication industry is an integral part of the economy as the global telecom industry market size was valued at approximately $1.75 trillion USD in 2019 (Grand View Research, 2019). During the past year, COVID-19 has locked most people at home, making people more dependent on telecommunications services than ever before. Now, in this era of the telecommunication industry, customer retention ability could become one of the key drivers to success, and our analysis will help to answer the following questions: "what is happening", "why should people care", and "what to do next".
